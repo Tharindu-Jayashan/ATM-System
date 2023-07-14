@@ -1,0 +1,34 @@
+
+You need to create account for use ATM..
+
+
+1.) Click on the bank account image.
+2.) Enter admin login key - 1234 (customer cannot access for this part..only admin can login)
+3.) Fill the text box
+
+     Details below
+
+     Username:
+     NIC:           ( NIC length must be in 9 )
+     Account:       ( Account number length must be in 6 )
+     Password:      ( length of atm card PIN must be 4 )
+     Card:          ( length of atm card number must be in 9)
+
+4.) After that click on the register button.
+
+5.) if you create account successfully, your txt file will be create below location
+                 
+          "C:\\atm"
+
+6.) After that you can click home button and click on the ATM image
+
+7.) Here, you need to enter your card ( IT MEANS YOU NEED ENTER YOUR CARD NUMBER ) and PIN number
+
+8.) Aftre that you can access ATM
+
+                 
+
+THANK YOU
+( GAL/IT/2020/F/0037 )
+
+
